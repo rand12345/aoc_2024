@@ -1,4 +1,7 @@
-mod day3;
+#![feature(iter_map_windows)]
+
+mod day4;
+// mod day3;
 // mod day2;
 // mod day1;
 
