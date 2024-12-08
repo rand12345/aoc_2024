@@ -89,7 +89,6 @@ fn part2(input: &str) -> String {
         }
     }
 
-    assert!(hsa.len() == 1246);
     format!("{}", hsa.len())
 }
 
