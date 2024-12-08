@@ -41,7 +41,6 @@ fn part1(input: &str) -> String {
         }
     }
 
-    assert!(hsa.len() == 390);
     format!("{}", hsa.len())
 }
 
